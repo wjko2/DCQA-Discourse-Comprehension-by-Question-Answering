@@ -22,8 +22,8 @@ Newsela: 1\~50, 260\~550, 901\~1050, 1492\~1500
 
 AP: 591\~695, 1051\~1445
 
-# Newsela articles
+#Articles
 We release the WSJ and AP articles.
-Since Newsela is copyrighted, please obtain access here <href>https://newsela.com/data</href> first, and then send me an email to ask for data (wjko@outlook.com).
+Since Newsela is copyrighted, please obtain permission from newsela (<href>https://newsela.com/data</href>) first, and then send me an email to ask for data (wjko@outlook.com).
 
 
