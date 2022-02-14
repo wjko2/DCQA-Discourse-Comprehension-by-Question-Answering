@@ -3,6 +3,7 @@
 During reading comprehension, questions that arise as human read through articles (Ko et al., 2020; Westera et al., 2020) may later be answered in the article itself, forming a connection in the discourse. Compared to existing QA datasets, these questions are products of higher-level (semantic and discourse) processing (e.g.,“how” and “why” questions) whose answers are typically in the form of complex linguistic units like whole sentences. Such reader-generated questions are far out of reach from the capabilities of systems trained on current QA datasets, suggesting that human discourse comprehension is still on another level from that of automated systems. We create this dataset to provide training data for this kind of questions, and also help machine understand the discourse structure of articles.
 
 
+# Data
 train.json, val.json, test.json are the DCQA training, validation and test set.
 
 inquisitive.json is the INQUISIIIVE test set. 
