@@ -6,9 +6,9 @@ During reading comprehension, questions that arise as human read through article
 # Data
 train.json, val.json, test.json are the DCQA training, validation and test set.
 
-inquisitive.json is the INQUISIIIVE test set. 
+inquisitive.json is the INQUISITIVE test set. 
 
-Since the articles in INQUISIIIVE test set overlap, we also release train-remove-inq.json which is a version of DCQA training set with overlapping articles removed.
+Since the articles in INQUISITIVE test set overlap, we also release train-remove-inq.json which is a version of DCQA training set with overlapping articles removed.
 articles.zip are the articles.
 
 Note that this dataset and INQUISITIVE use different sentence segmentation, so the sentence IDs in inquisitive.json uses the segmentation in  https://github.com/wjko2/INQUISITIVE/blob/master/article.zip instead of the one in this repo.
