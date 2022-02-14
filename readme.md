@@ -15,7 +15,7 @@ Note that this dataset and INQUISITIVE use different sentence segmentation, so t
 
 All sentence IDs start from 1.
 
-More description of the dataset can be found in datasheet.md.
+More description of the dataset can be found in Datasheet.md.
 
 
 **Citation:**
