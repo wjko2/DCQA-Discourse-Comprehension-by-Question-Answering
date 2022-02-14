@@ -42,7 +42,6 @@ We recruit crowdworkers from Amazon Mechanical Turk to annotate the training set
 
 # Over what time frame was the data collected?
 The dataset was collected over a period of May to June 2021.
-# Does the dataset contain all possible instances? 
 
 
 
