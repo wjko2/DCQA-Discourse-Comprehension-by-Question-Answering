@@ -18,11 +18,11 @@ More description of the dataset can be found in Datasheet.md.
 
 **Citation:**
 ```
-@InProceedings{ko2021dcqa,
+@InProceedings{ko2022dcqa,
   author    = {Ko, Wei-Jen and Dalton,Cutter  and Simmons,Mark and  Fisher,Eliza and Durrett, Greg and Li, Junyi Jessy},
   title     = {Discourse Comprehension: A Question Answering Framework to Represent Sentence Connections},
-  booktitle = {arxiv},
-  year      = {2021},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  year      = {2022},
 }
 ```
 
@@ -38,6 +38,6 @@ AP: 591\~695, 1051\~1445
 
 
 
-Since the articles are copyrighted, please send me an email to ask for the articles (wjko@outlook.com).  Please obtain permission from newsela (<href>https://newsela.com/data</href>) first before emailing me.
+Since the articles are copyrighted, please send us an email to ask for the articles (wjko@outlook.com, jessy@utexas.edu).  For Newsela please obtain permission from newsela (<href>https://newsela.com/data</href>) first before emailing us.
 
 
