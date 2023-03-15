@@ -49,6 +49,6 @@ AP: 591\~695, 1051\~1445
 
 
 
-Since the articles are copyrighted, please send us an email to ask for the articles (wjko@outlook.com, jessy@utexas.edu).  For Newsela please obtain permission from newsela (<href>https://newsela.com/data</href>) first before emailing us.
+Since the articles are copyrighted, please send us an email to ask for the articles (jessy@utexas.edu). For the Newsela portion of the data, please obtain permission from newsela (https://newsela.com/data) first before emailing us. (Newsela data is free to obtain for researchers).
 
 
